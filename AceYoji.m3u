@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE blank
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AceYoji/iconfont/main/douyu/douyu.png" group-title="斗鱼",斗鱼-LPL
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
